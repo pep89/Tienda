@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tipo_producto()
+comment0.text=\n\ Constructor\ predefinido\ de\ la\ clase\n
+comment1.params=id_tipoproducto\ nombre_tipo
+comment1.target=Tipo_producto(int,\ java.lang.String)
+comment1.text=\nContructor\ con\ parametros\ \n
+comment2.params=
+comment2.target=int\ getId_tipoproducto()
+comment2.text=\n\ Getters\ y\ setters\n
+comment3.params=id_tipoproducto
+comment3.target=void\ setId_tipoproducto(int)
+comment4.params=
+comment4.target=java.lang.String\ getNombre_tipo()
+comment5.params=nombre_tipo
+comment5.target=void\ setNombre_tipo(java.lang.String)
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ contruyeVentana()
+comment1.params=altura
+comment1.target=int\ CambiarTama\u00F1o(int)
+comment2.params=
+comment2.target=java.lang.String\ CalcularDia()
+comment3.params=x\ y\ ancho\ alto\ botonProveedores
+comment3.target=javax.swing.JPanel\ PanelProveedores(int,\ int,\ int,\ int,\ java.awt.event.ActionListener)
+comment3.text=\n\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\ PANELES\ PARA\ EL\ INTERFAZ\ PRINCIPAL\ \=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\=\n
+comment4.params=x\ y\ ancho\ alto\ botonMarcas
+comment4.target=javax.swing.JPanel\ PanelMarcas(int,\ int,\ int,\ int,\ java.awt.event.ActionListener)
+comment5.params=x\ y\ ancho\ alto\ botonProductos
+comment5.target=javax.swing.JPanel\ PanelProductos(int,\ int,\ int,\ int,\ java.awt.event.ActionListener)
+comment6.params=x\ y\ ancho\ alto\ botonVentas
+comment6.target=javax.swing.JPanel\ PanelVentas(int,\ int,\ int,\ int,\ java.awt.event.ActionListener)
+comment7.params=x\ y\ ancho\ alto\ botonVentasDelDia
+comment7.target=javax.swing.JPanel\ PanelVentasDelDia(int,\ int,\ int,\ int,\ java.awt.event.ActionListener)
+numComments=8

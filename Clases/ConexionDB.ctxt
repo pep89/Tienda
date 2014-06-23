@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.sql.Connection\ GetConnection()
+comment1.params=sql
+comment1.target=void\ ProducirSentencia(java.lang.String)
+comment2.params=sql\ con
+comment2.target=java.sql.ResultSet\ DevolverResult(java.lang.String,\ java.sql.Connection)
+comment3.params=sql
+comment3.target=javax.sql.rowset.CachedRowSet\ DevolverSentencia(java.lang.String)
+numComments=4

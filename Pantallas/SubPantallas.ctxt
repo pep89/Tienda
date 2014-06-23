@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javax.swing.JDialog\ DialogProveedores()
+comment1.params=
+comment1.target=javax.swing.JTable\ tablaProveedores()
+comment2.params=e
+comment2.target=void\ valueChanged(javax.swing.event.ListSelectionEvent)
+numComments=3

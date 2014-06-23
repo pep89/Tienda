@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Marcas()
+comment1.params=proveedor\ nombre_marca\ descripcion
+comment1.target=Marcas(Proveedores,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=Proveedores\ getProveedor()
+comment3.params=proveedor
+comment3.target=void\ setProveedores(Proveedores)
+comment4.params=
+comment4.target=java.lang.String\ getNombre_marca()
+comment5.params=nombre_marca
+comment5.target=void\ setNombre_marca(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDescripcion()
+comment7.params=descripcion
+comment7.target=void\ setDescripcion(java.lang.String)
+comment8.params=
+comment8.target=void\ Imprimir()
+numComments=9
